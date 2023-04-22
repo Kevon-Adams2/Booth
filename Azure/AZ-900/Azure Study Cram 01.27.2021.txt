@@ -1,0 +1,99 @@
+Azure Virtual machine - An Azure virtual machine gives you the flexibility 
+of virtualization without having to buy and maintain the physical hardware that runs it. 
+However, you still need to maintain the virtual machine by performing tasks, 
+such as configuring, patching, and installing the software that runs on it.
+
+
+HDInsight - a cost-effective, enterprise-grade service for open source analytics - 
+including Apache Hadoop, Spark, and Kafka
+
+
+Azure Data Factory is a cloud-based data integration service that allows you to create data-driven workflows 
+in the cloud for orchestrating and automating data movement and data transformation. 
+1.122Azure Data Factory does not store any data itself. 
+
+Azure AD Identity Protection  -
+Identity Protection is a tool that allows organizations to accomplish three key tasks:
+Automate the detection and remediation of identity-based risks.
+Investigate risks using data in the portal.
+Export risk detection data to third-party utilities for further analysis.
+
+Azure Privileged Identity Management - primarily deals with two risks user and system - and MFA
+To use Privileged Identity Management, you must have one of the following licenses:
+Azure AD Premium P2
+Enterprise Mobility + Security (EMS) E5
+
+
+Azure Advanced Threat Protection
+Azure AD Identity Protection is an Azure Active Directory Premium P2 edition feature that provides 
+an overview of the risk detections and potential vulnerabilities that can affect your organization’s identities. 
+
+Identity Protection uses existing Azure AD anomaly-detection capabilities that are available through Azure AD 
+Anomalous Activity Reports, and introduces new risk detection types that can detect real time anomalies.  
+Identity Protection uses adaptive machine learning algorithms and heuristics to detect anomalies and risk detections 
+that might indicate that an identity has been compromised. 
+ATP montors and analyzes user activities and information across your network, 
+such as permissions and group membership, creating a behavioral baseline for each user, 
+then identifies anomaloies wiht adaptive built-in intelligence
+
+Azure HDInsight - open-source framework for distributed processing and analysis of big data sets in clusters
+
+Azure Data Lake Analytics - can run massively parallel data transformation and processing programs across petabytes of data
+
+Azure SQL Synapse Analytics -  cloud based service that leverages massively parallel processing (MPP) to quickly run complex queries across petabytes of data in a relational DB
+
+Azure SQL Database - managed relational cloud db service
+
+Azure can monitor on-prem computers
+
+service-fabric-cluster-capacity
+  Number of node types
+  Properties of each node
+
+Azure Resoure Manager templates provide a common platform for deploying objects to a cloud infrastructure and for 
+implementing consistency across the Azure environment
+
+Microsoft Compliance Manager (Preview) is a free workflow-based risk that lets you track , 
+assign and verify regulatory compliance activities
+
+
+Basic - no support by email or phone
+Standard Email only
+Developer - Yes 
+Premier - Yes
+Professional Direct - Yes
+
+Azure Event Hub  is a fully managed, real-time data ingestion service that’s simple, trusted, 
+and scalable. Stream millions of events per second from any source to build dynamic data pipelines 
+and immediately respond to business challenges.
+
+
+Azure Log Analytics - is a tool in the Azure portal used to edit and run log queries 
+with data in Azure Monitor Logs. 
+
+Powershell needs Cloud shwell not the Azure CLI
+
+VM1 - USe Azure Virtual Machine to see service failure notifications
+
+Azure Storage can Contain up to 2PB for US and Europe and 500TB  in other regions
+
+azcopy apparently does not require that you rehydrate.  It is the rehydrator.
+
+Azure Account has a $200 spending limit
+
+Privileged Identity Management - you can implement just in time privileges for Azure resources
+
+General Availability is release to all customers
+
+You can increase SLA slightly by deploying to multiple regions
+
+Azure Advisor can Estimate the costs of an Azure solution
+But doesn't FOLLOW BEST SECURITY PRACTICES but can make some security recommendations
+
+You Azure Trial acccount expired last week.  you are now unable to create addtional Azure AD user accounts.
+There are no cost to user accounts so you ARE ABLE.
+But you cannto start an exiting Azure VM because it generates costs.
+
+Basic then Developer (email support), then Standard (Phone support), then Professional Direct, then Premier
+
+Azure free account has a limit of 10 web apps, 5GB Blob and 5GB file storage, $200 limit

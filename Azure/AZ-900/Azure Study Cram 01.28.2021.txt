@@ -1,0 +1,22 @@
+
+Enhanced API
+  Arguably could be
+  	Enhanced API 1 POST
+	Enhanced API GET&PUT
+
+PDF Rap Sheet Generation (through Pipeline)
+PDF Merge (through Pipeline)
+Bar Code Generation (through Pipeline)
+Case Packet Distribution (through Pipeline)
+
+
+1. Solidify functional requirements with DataShare Team for APIs for Data Sharing Payload 
+  and metadata storage in Azure Gov Cloud2. Create diagrams for above requirements 
+  to have a solidification document
+2. Create diagrams for above requirements to have a solidification document
+3. Terraform pipelines to complete installation and allow for future setups of  APIs in Azure Gov Cloud as well as Snowflake resources
+4.  Create security and API design diagrams for above requirements to have a solidification document
+5. Build out POST/GET/PUT requests for API to follow above requirements  of APIs for Data Sharing Payload and metadata storagein Azure Gov Cloud
+6. Build out PDF merge service to support Earaignment integration process
+7. Build out Case Packet Distribution service to support Earaignment integration process
+8. Build out Case Packet Barcode Generation service to support Earaignment integration process Build out Case Packet Distribution service to support Earaignment integration process

@@ -1,0 +1,44 @@
+Azure Test Prep:
+
+20 min download simulator and 2 vce files
+6 hrs	go through simulator test 1, 222Q
+           build study guide by identifying anything you don't know
+           from question, choices, or answers, going to google and looking it up
+           Peruse through answer links to learn more about a subject
+NOTES:   https://ibm.box.com/s/3i9g3kg9g6gtrkveahhoe7mqz2ni2t92
+
+4 hrs   do the same with simulator test 2 188Q
+20 hrs (est) take a highly rated Udemy Course on AZ-900
+3 hrs   do udemy practice tests
+2 hrs	go through PPTX in my File share
+2 hrs   Retake simulator tests repeatedly until you score over 80%
+
+10-40 hrs depending on your level of understanding        
+Note when studying questions:  Ask yourself for each choice.
+Why is this answer correct?   where applicable
+Why is this answer incorrect? where applicable
+Why is this the MOST right answer?  where applicable
+
+
+Tips:  Find someone that has already taken it and passed.
+  Ask for help when you do not understand something.
+  Try Try again!
+
+
+RESOURCES:  See my folder for AZ-900
+All Resources https://ibm.box.com/s/oohpqmdsv2nvpzwifp5r0pqw8o7vii1o
+Simulator  - download, put all in same directory
+Notes 
+PPTX - Study guides
+Other
+
+
+
+NO LRT REQUIRED:
+Take it over and over and over without questions - 4-8 day  break between.
+
+
+https://w3.ibm.com/w3publisher/gbs-na-l-k-multicloud-enablement
+Signup Quirk:
+https://ibm.box.com/s/bjn2dl30xb66apulejhjg2xy3q3q7ku5
+

@@ -1,0 +1,105 @@
+What is required to use Azure Cost Management?
+C.  EA (an Enterprise Agreement)
+Understand Azure Pricing and Support
+--
+99.99 vs 99.9 
+Minimum number of availabilty Zones you should recommend for deployment
+Understand Availability Zones
+--
+Preview - when it is available to public
+--
+Support Engineers by phone - Standard or Premium
+Standard supports phone support
+--
+Understand Security Privacy compliance and Trust
+? provides organization ability to manage compliance of Azure resources across multiple subscriptions
+Management Groups or Azure Policies
+--
+Automation of resources
+ARM-Azure Resource Management templates or Virtual or machine Scale Sets  (only because ARM is resource not VM)
+--
+SQL Stretch Server
+SQL Elastic Pools
+Data factories
+Elastic Job agents
+--
+Advisor and Security in AD Environment
+--
+Advisor on Reduce costs of virtual machines - yes - Reserved Instances
+--
+Advisor on how to configure the network settings on VMs - yes
+--
+Forms of MFA - is picture one of them NO, face, text, auth code, info
+--
+Azure Resource Group- cross subscriptions
+--
+*Not all resources have same tag in a resource group
+--
+all permissions assigned to resource group are inherited
+--
+Where to go for network events, outages
+--
+Apparently Azure Policies allow you to manage compliance of Azure resource groups across multiple subscriptions
+REVIEW Management Groups def
+--
+Azure Event Hubs - Real time data ingestiona, a scalable event processing service that ingests and processes large volumes of events and data, with low latency and high reliability
+The following scenarios are some of the scenarios where you can use Event Hubs:
+Anomaly detection (fraud/outliers)
+Application logging
+Analytics pipelines, such as clickstreams
+Live dashboarding
+Archiving data
+Transaction processing
+User telemetry processing
+Device telemetry streaming
+
+Azure Service Bus (AWS SQS)- Reliable cloud messaging as a service (MaaS) and simple hybrid integration
+-Build reliable and elastic cloud apps with messaging
+-Protect your application from temporary spikes in traffic
+-Decouple your applications from each other
+-Connect your existing on-premises systems to cloud solutions
+-Distribute messages to multiple independent back-end systems
+-Scale out ordered messaging to multiple readers
+-Enable existing Java Message Service (JMS) applications to talk to Service Bus
+
+
+Azure Log Analytics - The Azure Log Analytics agent collects telemetry from Windows and Linux virtual machines 
+in any cloud, on-premises machines, and those monitored by System Center Operations Manager and sends it collected 
+data to your Log Analytics workspace in Azure Monitor. The Log Analytics agent also supports insights and other 
+services in Azure Monitor such as Azure Monitor for VMs, Azure Security Center, and Azure Automation.
+
+
+Azure Analysis Services - a collection of Analytics servicers, but NOT a specific offering
+
+Azure Monitor - Full observability into your applications, infrastructure, and 
+--
+When implementing a SaaS solution, you are responsible for 
+ - configuring the SaaS Solution  (not the scaling or availability)
+--
+Azure Government to develop a cloud solution, two types of Customers?
+  1)US Gov Entity
+  2)US Gov contractor
+--
+Where to find scheduled events in the Portal?  Dashboard, or Security Events  - Dashboard
+--
+Review PaaS
+hosts web apps and provides full control of OS 
+hosts web apps and allows scaling of platform
+host web apps in prof dev services to continous add features to custom apps
+--
+powershell-now-open-source-and-cross-platform-linux-macos-windows
+--
+Azure Databricks - 
+Azure Functions -  Provides the platform for serverles code
+Azure App Service -hosts web app 
+Azure Application Insights - detects and diagnoses anomalies in web apps
+--
+Limit the amount of inbound traffic to all the Azure virtual networks:
+use Azure Firewall
+--
+Redis vs Memcached
+Data factories
+Elastic Job agents
+Virtual Clusters
+SQL Server stretch databases
+SQL Elastic Pools

@@ -1,0 +1,26 @@
+THINGS THAT YOU CAN ABSOLUTELY COUNT ON AS TRUE
+
+IaaS - Virtual Machine or anything that requires storage (account, or diskspace)
+          You are installing your own software which you purchases
+PaaS - Any DB system, ex  Azure SQL,  Cosmos, WebApps, Application Service
+SaaS - only configure software, cannot install, cannot change OS, or change resources CPU, instances
+
+
+WHEN CONNECTED TO THE CLOUD - Cloud Shell can do anything
+			      Web Console Can do anything
+			      PowerShell script requires Powershell CLI except Powershell runs on CloudShell
+
+
+NO CHARGE TO TRANSFER DATA UP TO CLOUD
+ALWAYS CHARGE TO TRANSFER DATA DOWN FROM CLOUD
+
+DATABASE			DATA MART					DATA LAKE
+Relational Tables		GROUPS oF Relational Tables or DBs		Lots of diff types of Data
+HOMOGENEOUS			HOMOGENEOUS					NOT HOMOGENOUS
+
+
+NSG - NETWORK SECURITY GROUP    network routes mapping and FW IPs
+192.168.1.1   -> access only locally
+Open Port 80 443  -> public ip to private ip so internet can communicate
+
+AVAILABILITY ZONES ALWAYS IN A SINGLE REGION

@@ -1,0 +1,160 @@
+Azure Kubernetes Service (AKS)
+Organization relationship
+OAuth 2.0 Authorization endpoint
+namespace
+resource group
+subscription
+Cost Analysis Blade
+public DNS Zone
+MX Record
+NSEC Record
+SRV Record - sip. tcp
+NSEC3 REcord
+
+NSG - network security group
+Storage Account
+blob
+blob container
+snapshot
+azcopy command
+Azure policy
+Microsoft ClassicNetwork provider
+blueprint files
+Azure Resource Manager library
+ASR - Azure Recovery Service Vault
+Azure Import/Export Service
+Service Endpoint
+waimportexexport.exe
+BitLocker
+Availability Zone
+Availability Set
+Load Balancer
+KeyVault
+Azure Network Watcher
+MicrosoftLogAnalytics provider
+Microsoft Insights resource provider
+NSG flow logs
+Licenses blade
+Directoryrole blade
+Groups blade
+GRS - Geo-redundant storage
+LRS - Locally-redundant storage
+RA-GRS - read-access GRS
+BlobStorage
+BlockBlogStorage
+Azure Storage Account
+Azure container
+Orchestration modes
+Application Security Groups
+NVA - Network Virtual Appliances
+HA Ports
+Cloud device administrator role
+Join Type - Azure AD registered, Azure AD joinedA
+Azure AD tenant
+VMware vCenter role
+Hyper-V host
+Azure ExpressRoute
+MFA - multi-factor Authentication
+Azure File Sync
+Sync Group
+Microsoft Marketplace
+Azure Monitor
+Traffic Manager
+Azure Advisor
+MFA Server blade
+Users blade
+Groups Blade
+Devices Blade
+VTI - Virtual tunnel interface
+RBAC
+SQL Injection attacks
+WAF tier
+internal load balancer
+public load balancer
+WAF - Windows Application Firewall
+Azure Application Gateway
+AKS - Azure Kubernetes Service
+virtual hub
+virtual LAN
+virtual WAN
+data-gateway
+Azure Application Gateway
+Microsoft.ClassicNetwork/virtualNetworks
+Microsoft.Network/virtualNetworks
+Microsoft.Compute/virtualMachines
+Azure Monitor
+Service Health Alert
+hot, cool and archive blob tiers
+GPv2 accounts
+GPv1 accounts
+Azure HDInsight
+Linux Diagnostic Extension (LAD) 3.0
+AzureperformanceDiagnostics extenstion
+Azure Analysis Services
+Azure DNS Zone
+A records
+Azure Log Analytics workspace
+AD Identity  Protection
+VPN Gateway
+Recovery Services Vault
+SAS - shared access signature
+Azure Storage Explorer
+what is a blade
+Logic App Contributor role
+ARM - Azure Resource Manager template
+peering
+gateway transit
+automation runbook
+Microsoft System Center Service Manager
+
+ITSM - IT Service Management Connector
+VMSS - Virtual Machine Scale Set
+Update Management blade
+workspaces Azure Log Analytics workspace
+Cost analysis blade
+Subscriptions blade
+Azure Automation State Configuration
+MOF Document
+Automation DSC Pull Server
+DSC Configuration
+Azure Region
+namespace
+tenant
+configuration script
+automation account
+DSC (Desired State Configuration)
+Azure Content Delivery Network (CDN)
+Azure Application Gateway
+Virtual Appliance
+VPN Gateway
+NGINX
+Azure Resource Manager
+Azure Custom Script Extension
+AzCopy
+Microsoft Monitoring Agent
+Azure Monitor
+Log Analytics Workspace
+Git repository
+Network Contributor (on a LB)
+Azure AD B2C
+dynamic groups
+conditional access policies
+MIM - Microsoft Identity Management
+Azure logic app
+Azure AD Identity Protections
+cloud endpoint
+server endpoint
+Azure Performance Diagnostics agent
+scale set
+Security Reader
+Security Admin
+Azure AD Application Proxy
+Azure Virtual Network Gateway
+Puppet Agent Extension
+Floating IP
+App Service Plan
+
+
+
+
+
